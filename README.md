@@ -7,7 +7,7 @@ Plasma, Plasma Cash &amp; Plasma XT implementation in Go
 
 #### For Linux and Mac
 ```bash
-cd $GOPATH/src/github.com/SmartMeshFoundation/SmartPlasma
+cd $GOPATH/src/github.com/bigman1208000/SmartPlasma
 go test -v ./... -count=1
 ```
 
@@ -24,7 +24,7 @@ Information is not displayed in the console, see comments in code.
 
 #### For Linux and Mac
 ```bash
-cd $GOPATH/src/github.com/SmartMeshFoundation/SmartPlasma/example/simple
+cd $GOPATH/src/github.com/bigman1208000/SmartPlasma/example/simple
 go run example.go
 ```
 
@@ -42,6 +42,6 @@ Assumptions:
 
 #### For Linux and Mac
 ```bash
-cd $GOPATH/src/github.com/SmartMeshFoundation/SmartPlasma/example/cycle
+cd $GOPATH/src/github.com/bigman1208000/SmartPlasma/example/cycle
 go run example.go
 ```
